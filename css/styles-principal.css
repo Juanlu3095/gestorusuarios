@@ -1,0 +1,14 @@
+body{
+    margin: 20px;
+}
+
+.button-container{
+    text-align: right;
+}
+
+.toolbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: right;
+}
